@@ -4,13 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F46a0bnzP-12y5s0f8j_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F46a0bnzP-12y5s0f8j_-1">
+        <mxCell id="F46a0bnzP-12y5s0f8j_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F46a0bnzP-12y5s0f8j_-1" target="F46a0bnzP-12y5s0f8j_-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F46a0bnzP-12y5s0f8j_-1" value="&lt;span style=&quot;color: rgb(21, 21, 21); font-family: Roboto, arial, sans-serif; font-size: 18px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;CycPeptMPDB&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="F46a0bnzP-12y5s0f8j_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
